@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I am a programmer from Hong Kong
+- 🔭 I’m currently working on HostLink(HK)
+
+
 <!--
 **mathsgod/mathsgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
