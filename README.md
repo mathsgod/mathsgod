@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am a programmer from Hong Kong
-- 🔭 I’m currently working on <a href="https://www.hostlink.com.hk">HostLink(HK)</a>
+- 🔭 I’m currently working on <a href="https://www.hostlink.com.hk" target="_blank">HostLink(HK)</a>
 
 
 <!--
