@@ -2,8 +2,8 @@
 
 - I am a programmer from Hong Kong
 - 🔭 I’m currently working on <a href="https://www.hostlink.com.hk" target="_blank">HostLink(HK)</a>
+- view my <a href="https://skyline.github.com/mathsgod/2021">github skyline</a>
 
-<a href="https://skyline.github.com/mathsgod/2021">github skyline</a>
 <!--
 **mathsgod/mathsgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
