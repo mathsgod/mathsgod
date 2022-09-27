@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am a programmer from Hong Kong
+- I am a programmer from Hong Kong, 一個來自香港的程式設計員
 - 🔭 I’m currently working on <a href="https://www.hostlink.com.hk" target="_blank">HostLink(HK)</a>
 - view my <a href="https://skyline.github.com/mathsgod">github skyline</a>
 
