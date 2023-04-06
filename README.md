@@ -3,6 +3,7 @@
 - I am a programmer from Hong Kong, 一個來自香港的程式設計員
 - 🔭 I’m currently working on <a href="https://www.hostlink.com.hk" target="_blank">HostLink(HK)</a>
 - view my <a href="https://skyline.github.com/mathsgod">github skyline</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/raymond-chong-hk/">LinkedIn</a>
 
 <!--
 **mathsgod/mathsgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
