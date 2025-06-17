@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathsgod&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathsgod&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Metrics](https://raw.githubusercontent.com/mathsgod/mathsgod/assets/github-metrics/metrics.svg)
-
